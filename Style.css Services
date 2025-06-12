@@ -1,0 +1,20 @@
+/* services.css */
+
+main h2 {
+  color: #e67e22;
+  font-size: 2.3rem;
+  margin-bottom: 20px;
+}
+
+main ul {
+  list-style-type: square;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 1.15rem;
+  color: #555;
+}
+
+main ul li {
+  margin-bottom: 10px;
+}
