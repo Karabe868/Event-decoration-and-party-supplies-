@@ -20,14 +20,14 @@
   </header>
 
   <main>
-    <h2>Contact Us</h2>
+    <h2>Contact :57889493</h2>
     <p>We would love to hear from you! Reach out for quotes or questions.</p>
 
     <form action="#" method="post">
       <label for="name">Name:</label><br />
       <input type="text" id="name" name="name" required /><br /><br />
 
-      <label for="email">Email:</label><br />
+      <label for="email">motaungkarabelo625@gmail.com:</label><br />
       <input type="email" id="email" name="email" required /><br /><br />
 
       <label for="message">Message:</label><br />
