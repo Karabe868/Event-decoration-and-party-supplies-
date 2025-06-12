@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vibrant Vibes Decor - Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Vibrant Vibes Decor</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Welcome to Vibrant Vibes Decor!</h2>
+    <p>Your one-stop shop for event decoration and party supplies.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Vibrant Vibes Decor. All rights reserved.</p>
+  </footer>
+</body>
+</html>
