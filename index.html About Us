@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vibrant Vibes Decor - About Us</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Vibrant Vibes Decor</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About Us</h2>
+    <p>Vibrant Vibes Decor has been creating unforgettable party experiences since 2010.</p>
+    <p>We specialize in custom event decoration and high-quality party supplies to make your celebrations shine.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Vibrant Vibes Decor. All rights reserved.</p>
+  </footer>
+</body>
+</html>
