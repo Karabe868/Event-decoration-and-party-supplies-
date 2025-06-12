@@ -1,0 +1,14 @@
+/* homepage.css */
+
+main h2 {
+  color: #ff5722;
+  font-size: 2.5rem;
+  margin-bottom: 15px;
+}
+
+main p {
+  font-size: 1.25rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #555;
+}
