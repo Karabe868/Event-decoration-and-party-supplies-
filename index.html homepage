@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home | Event Decoration & Party Supplies</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Party & Style</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About Us</a>
+      <a href="#">Services</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Making Every Event Beautiful</h2>
+    <p>
+      At Party & Style, we specialize in creative event decoration and quality party supplies for birthdays, weddings, baby showers, and more. Let us help you create a celebration to remember with color, elegance, and joy
