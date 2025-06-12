@@ -1,0 +1,47 @@
+/* contact.css */
+
+main h2 {
+  color: #c0392b;
+  font-size: 2.3rem;
+  margin-bottom: 20px;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 6px;
+  color: #333;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 2px solid #ff7f50;
+  border-radius: 6px;
+  font-size: 1rem;
+  resize: vertical;
+}
+
+button {
+  background-color: #ff7f50;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #e55327;
+}
