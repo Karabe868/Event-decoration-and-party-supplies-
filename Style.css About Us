@@ -1,0 +1,15 @@
+/* about.css */
+
+main h2 {
+  color: #d35400;
+  font-size: 2.2rem;
+  margin-bottom: 15px;
+}
+
+main p {
+  max-width: 700px;
+  margin: 10px auto;
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: #444;
+}
